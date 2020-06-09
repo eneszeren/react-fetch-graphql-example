@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I was try to graphql query and mutation with Fetch Request on React application. If you wanna test literally you  need to anilist.co authorize token and you should paste in Service.js to location of {TOKEN}.
 
 ## Available Scripts
 
